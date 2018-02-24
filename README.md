@@ -14,7 +14,7 @@ Install the plugin by running following command from your terminal. (Make sure y
 Added support for TJ 10.2.2
 
 ```
-cordova plugin add  https://github.com/Switch168/my-tapjoy-plugin.git
+cordova plugin add  https://github.com/Switch168/my-tapjoy-plugin.git --nofetch
 ```
 
 After installation you can call any of the ```js``` api provided by Tapjoy. 
