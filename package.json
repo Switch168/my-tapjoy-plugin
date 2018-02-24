@@ -1,0 +1,39 @@
+{
+  "version": "1.5.0",
+  "name": "my-tapjoy-plugin",
+  "cordova_name": "Cordova Tapjoy Plugin",
+  "description": "Cordova Tapjoy plugin",
+  "license": "GPLv2",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "cordova": {
+    "id": "my-tapjoy-plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Switch168/my-tapjoy-plugin"
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios",
+      "tapjoy",
+      "monetization"
+    ],
+    "author": "Kalpesh Patel",
+    "bugs": {
+      "url": "https://github.com/Switch168/my-tapjoy-plugin/issues"
+    }
+}
